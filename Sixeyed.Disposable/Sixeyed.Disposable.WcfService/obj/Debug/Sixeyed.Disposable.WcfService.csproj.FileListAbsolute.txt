@@ -1,0 +1,6 @@
+D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.WcfService\bin\Sixeyed.Disposable.WcfService.dll.config
+D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.WcfService\bin\Sixeyed.Disposable.WcfService.dll
+D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.WcfService\bin\Sixeyed.Disposable.WcfService.pdb
+D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.WcfService\obj\Debug\Sixeyed.Disposable.WcfService.csprojResolveAssemblyReference.cache
+D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.WcfService\obj\Debug\Sixeyed.Disposable.WcfService.dll
+D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.WcfService\obj\Debug\Sixeyed.Disposable.WcfService.pdb

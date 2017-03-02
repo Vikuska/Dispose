@@ -1,0 +1,6 @@
+D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.ConsoleApp\bin\Debug\Sixeyed.Disposable.ConsoleApp.exe.config
+D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.ConsoleApp\bin\Debug\Sixeyed.Disposable.ConsoleApp.exe
+D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.ConsoleApp\bin\Debug\Sixeyed.Disposable.ConsoleApp.pdb
+D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.ConsoleApp\obj\Debug\Sixeyed.Disposable.ConsoleApp.csprojResolveAssemblyReference.cache
+D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.ConsoleApp\obj\Debug\Sixeyed.Disposable.ConsoleApp.exe
+D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.ConsoleApp\obj\Debug\Sixeyed.Disposable.ConsoleApp.pdb

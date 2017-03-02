@@ -1,0 +1,5 @@
+D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.Database\bin\Debug\Sixeyed.Disposable.Database.dacpac
+D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.Database\bin\Debug\Sixeyed.Disposable.Database.dll
+D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.Database\bin\Debug\Sixeyed.Disposable.Database.pdb
+D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.Database\obj\Debug\Sixeyed.Disposable.Database.dll
+D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.Database\obj\Debug\Sixeyed.Disposable.Database.pdb

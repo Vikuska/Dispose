@@ -1,0 +1,14 @@
+D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.DomainConsoleApp\bin\Debug\Sixeyed.Disposable.DomainConsoleApp.exe.config
+D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.DomainConsoleApp\bin\Debug\Sixeyed.Disposable.DomainConsoleApp.exe
+D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.DomainConsoleApp\bin\Debug\Sixeyed.Disposable.DomainConsoleApp.pdb
+D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.DomainConsoleApp\bin\Debug\EntityFramework.dll
+D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.DomainConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.DomainConsoleApp\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.DomainConsoleApp\bin\Debug\Microsoft.Practices.Unity.dll
+D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.DomainConsoleApp\bin\Debug\EntityFramework.xml
+D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.DomainConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.DomainConsoleApp\bin\Debug\Microsoft.Practices.Unity.xml
+D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.DomainConsoleApp\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.DomainConsoleApp\obj\Debug\Sixeyed.Disposable.DomainConsoleApp.csprojResolveAssemblyReference.cache
+D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.DomainConsoleApp\obj\Debug\Sixeyed.Disposable.DomainConsoleApp.exe
+D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.DomainConsoleApp\obj\Debug\Sixeyed.Disposable.DomainConsoleApp.pdb
