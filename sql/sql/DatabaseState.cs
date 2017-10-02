@@ -15,7 +15,7 @@ namespace sql
         {
             if (_connection == null)
             {
-                _connection = new SqlConnection("Server=(local);Database=master;Integrated Security=SSPI;Max pool size=215;Connection Timeout=2;");
+                _connection = new SqlConnection("Server=(local);Database=master;Integrated Security=SSPI;Max pool size=215;Connection Timeout=2;App=Teest;");
                 _connection.Open();
             }
 

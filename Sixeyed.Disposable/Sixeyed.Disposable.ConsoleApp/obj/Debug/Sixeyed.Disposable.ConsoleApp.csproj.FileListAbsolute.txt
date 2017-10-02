@@ -4,3 +4,9 @@ D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposabl
 D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.ConsoleApp\obj\Debug\Sixeyed.Disposable.ConsoleApp.csprojResolveAssemblyReference.cache
 D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.ConsoleApp\obj\Debug\Sixeyed.Disposable.ConsoleApp.exe
 D:\materials\1-idisposable-bp-csharp-developers-exercise-files\Sixeyed.Disposable\Sixeyed.Disposable.ConsoleApp\obj\Debug\Sixeyed.Disposable.ConsoleApp.pdb
+D:\GitTest\Dispose\Sixeyed.Disposable\Sixeyed.Disposable.ConsoleApp\bin\Debug\Sixeyed.Disposable.ConsoleApp.exe.config
+D:\GitTest\Dispose\Sixeyed.Disposable\Sixeyed.Disposable.ConsoleApp\obj\Debug\Sixeyed.Disposable.ConsoleApp.exe
+D:\GitTest\Dispose\Sixeyed.Disposable\Sixeyed.Disposable.ConsoleApp\obj\Debug\Sixeyed.Disposable.ConsoleApp.pdb
+D:\GitTest\Dispose\Sixeyed.Disposable\Sixeyed.Disposable.ConsoleApp\bin\Debug\Sixeyed.Disposable.ConsoleApp.exe
+D:\GitTest\Dispose\Sixeyed.Disposable\Sixeyed.Disposable.ConsoleApp\bin\Debug\Sixeyed.Disposable.ConsoleApp.pdb
+D:\GitTest\Dispose\Sixeyed.Disposable\Sixeyed.Disposable.ConsoleApp\obj\Debug\Sixeyed.Disposable.ConsoleApp.csprojResolveAssemblyReference.cache

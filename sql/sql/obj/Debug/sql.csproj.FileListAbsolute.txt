@@ -4,3 +4,9 @@ D:\GitTest\sql\sql\bin\Debug\sql.pdb
 D:\GitTest\sql\sql\obj\Debug\sql.csprojResolveAssemblyReference.cache
 D:\GitTest\sql\sql\obj\Debug\sql.exe
 D:\GitTest\sql\sql\obj\Debug\sql.pdb
+D:\GitTest\Dispose\sql\sql\bin\Debug\sql.exe.config
+D:\GitTest\Dispose\sql\sql\obj\Debug\sql.exe
+D:\GitTest\Dispose\sql\sql\obj\Debug\sql.pdb
+D:\GitTest\Dispose\sql\sql\bin\Debug\sql.exe
+D:\GitTest\Dispose\sql\sql\bin\Debug\sql.pdb
+D:\GitTest\Dispose\sql\sql\obj\Debug\sql.csprojResolveAssemblyReference.cache
